@@ -12,7 +12,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "CPL Auction Manager",
-  description: "Created for Chagantivaripalem premiere league 7 ",
+  description: "Created for Chagantivaripalem PL-7 ",
   generator: "rama.app",
 }
 
