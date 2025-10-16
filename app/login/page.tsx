@@ -57,9 +57,9 @@ export default function LoginPage() {
             <Button type="submit" disabled={loading}>
               {loading ? "Signing in..." : "Sign in"}
             </Button>
-            <div className="text-xs text-muted-foreground">
-              Don’t have credentials? You can still browse the auction in read-only mode.
-            </div>
+            {/* <div className="text-xs text-muted-foreground"> */}
+              {/* Don’t have credentials? You can still browse the auction in read-only mode.
+            </div> */}
           </form>
         </CardContent>
       </Card>
